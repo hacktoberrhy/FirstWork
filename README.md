@@ -23,3 +23,11 @@ The doctor enters login details which are checked in the doctor table. If entere
 5)	EMAIL ID – cannot input false email ID and should be of length 16
 6)	MOBILE NUMBER – should be of length only 10
 
+#### CSS USED
+•	buttons on the pages,
+•	input boxes, 
+•	tabs on the homepage,  
+•	slideshow on the homepage,
+•	fonts,
+•	links
+are designed using CSS.
