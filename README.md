@@ -20,8 +20,8 @@ The doctor enters login details which are checked in the doctor table. If entere
 2)	FATHER NAME -    should not be empty and cannot contain numeric datatype
 3)	BLOOD GROUP -   should not contain only select value
 4)	PINCODE-  cannot contain alphabets as datatype
-5)	EMAIL ID – cannot input false email ID and should be of length 16
-6)	MOBILE NUMBER – should be of length only 10
+5)	EMAIL ID – Cannot input false email ID and should be of length 16
+6)	MOBILE NUMBER – Should be of length only 10
 
 #### CSS USED
 •	buttons on the pages,
