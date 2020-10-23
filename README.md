@@ -30,4 +30,4 @@ The doctor enters login details which are checked in the doctor table. If entere
 •	slideshow on the homepage,
 •	fonts,
 •	links
-are designed using CSS.
+are designed by CSS.
