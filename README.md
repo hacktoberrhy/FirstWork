@@ -16,12 +16,12 @@ The user enters name, blood group, date & time of blood requirement. A PHP file 
 The doctor enters login details which are checked in the doctor table. If entered correctly , a new page comes up showing the doctors previous , todays and upcoming appointments . These are three different pages . The doctor can sign out of his account . On clicking forgot password, the doctor id, new password , security question and its answer is asked . The security question and answer is checked in the forgot table and the password is updated in the doctor table.
 
 #### JAVASCRIPT USED
-1)	Name - Should not be empty and cannot contain numeric datatype
-2)	Father's Name - Should not be empty and cannot contain numeric datatype
-3)	Blood Group - Should not contain only select value
-4)	Pincode -  Cannot contain alphabets as datatype
-5)	Email ID – Cannot input false email ID and should be of length 16
-6)	Mobile Number – Should be of length only 10
+1)	Name - Should not be empty and cannot contain numeric datatype.
+2)	Father's Name - Should not be empty and cannot contain numeric datatype.
+3)	Blood Group - Should not contain only select value.
+4)	Pincode -  Cannot contain alphabets as datatype.
+5)	Email ID – Cannot input false email ID and should be of length 16.
+6)	Mobile Number – Should be of length only 10.
 
 #### CSS USED
 •	buttons on the pages,
