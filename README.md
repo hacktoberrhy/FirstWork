@@ -27,7 +27,6 @@ The doctor enters login details which are checked in the doctor table. If entere
 •	buttons on the pages,
 •	input boxes, 
 •	tabs on the homepage,  
-•	slideshow on the homepage,
 •	fonts,
 •	links
 are designed by CSS.
